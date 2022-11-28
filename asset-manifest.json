@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React_Mini_Projects/static/css/main.23174b2c.css",
-    "main.js": "/React_Mini_Projects/static/js/main.a954b02d.js",
+    "main.css": "/React_Mini_Projects/static/css/main.2ebb1f44.css",
+    "main.js": "/React_Mini_Projects/static/js/main.14fa3113.js",
     "static/media/MyLOGO.png": "/React_Mini_Projects/static/media/MyLOGO.2a93b04bc86bbf541ec4.png",
     "static/media/google.svg": "/React_Mini_Projects/static/media/google.b596752253d8523d78d4a2691564e4b4.svg",
     "static/media/file3.svg": "/React_Mini_Projects/static/media/file3.e456b1c2feafe03738548619ef3c11a8.svg",
@@ -16,11 +16,11 @@
     "static/media/arrow-up.svg": "/React_Mini_Projects/static/media/arrow-up.4518f6b7e1bbff4c26d77e158730633d.svg",
     "index.html": "/React_Mini_Projects/index.html",
     "static/media/facebook.svg": "/React_Mini_Projects/static/media/facebook.d7c0b4e9ce034fb8d8f719d7fbc5fd90.svg",
-    "main.23174b2c.css.map": "/React_Mini_Projects/static/css/main.23174b2c.css.map",
-    "main.a954b02d.js.map": "/React_Mini_Projects/static/js/main.a954b02d.js.map"
+    "main.2ebb1f44.css.map": "/React_Mini_Projects/static/css/main.2ebb1f44.css.map",
+    "main.14fa3113.js.map": "/React_Mini_Projects/static/js/main.14fa3113.js.map"
   },
   "entrypoints": [
-    "static/css/main.23174b2c.css",
-    "static/js/main.a954b02d.js"
+    "static/css/main.2ebb1f44.css",
+    "static/js/main.14fa3113.js"
   ]
 }
