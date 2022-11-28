@@ -10,6 +10,7 @@ function App() {
             <Clock/>
             <Navbar />
             <Routes>
+            <Route path='/React_Mini_Projects' element={<Hero />} />
             <Route path='/' element={<Hero />} />
             <Route path='/service'>
               <Route index element={<Service />}/>
