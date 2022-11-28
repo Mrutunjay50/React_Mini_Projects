@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React_Mini_Projects/static/css/main.23174b2c.css",
+    "main.js": "/React_Mini_Projects/static/js/main.a954b02d.js",
+    "static/media/MyLOGO.png": "/React_Mini_Projects/static/media/MyLOGO.2a93b04bc86bbf541ec4.png",
+    "static/media/google.svg": "/React_Mini_Projects/static/media/google.b596752253d8523d78d4a2691564e4b4.svg",
+    "static/media/file3.svg": "/React_Mini_Projects/static/media/file3.e456b1c2feafe03738548619ef3c11a8.svg",
+    "static/media/instagram.svg": "/React_Mini_Projects/static/media/instagram.c6b8cb38e27fa08147a5848badee6975.svg",
+    "static/media/file1.svg": "/React_Mini_Projects/static/media/file1.abfe2f0c935f8f5eca8ca92a29e8c780.svg",
+    "static/media/close.svg": "/React_Mini_Projects/static/media/close.c77f10e4c08d40af5f1ccf25a43b2ac5.svg",
+    "static/media/file.svg": "/React_Mini_Projects/static/media/file.dc7183dcb0a04c5c50eef011c03e0783.svg",
+    "static/media/file2.svg": "/React_Mini_Projects/static/media/file2.a197519e9c99ce1929af330a4421bd2d.svg",
+    "static/media/menu.svg": "/React_Mini_Projects/static/media/menu.0b8796dcff6b9d88f160a5096039aa18.svg",
+    "static/media/twitter.svg": "/React_Mini_Projects/static/media/twitter.770c4fec194e1e46d63c494c3abf339c.svg",
+    "static/media/linkedin.svg": "/React_Mini_Projects/static/media/linkedin.118c1b5e826b3fec5a303413266a78f8.svg",
+    "static/media/arrow-up.svg": "/React_Mini_Projects/static/media/arrow-up.4518f6b7e1bbff4c26d77e158730633d.svg",
+    "index.html": "/React_Mini_Projects/index.html",
+    "static/media/facebook.svg": "/React_Mini_Projects/static/media/facebook.d7c0b4e9ce034fb8d8f719d7fbc5fd90.svg",
+    "main.23174b2c.css.map": "/React_Mini_Projects/static/css/main.23174b2c.css.map",
+    "main.a954b02d.js.map": "/React_Mini_Projects/static/js/main.a954b02d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23174b2c.css",
+    "static/js/main.a954b02d.js"
+  ]
+}
