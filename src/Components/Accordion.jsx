@@ -100,7 +100,7 @@ const Sq = ({question,answer}) =>{
 
 
 const Accordion = () =>{
-    const[data, setData] = useState(Questions);
+    const[data] = useState(Questions);
     return (
         <>
             <div className="feedback-card min-h-[85vh] max-h-fit mx-80 text-white py-3 px-5 rounded-lg">

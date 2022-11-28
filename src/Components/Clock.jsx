@@ -1,5 +1,4 @@
 import React,{useState} from "react";
-import style from "../style";
 
 const Time = () =>{
     const date = new Date().toLocaleTimeString();

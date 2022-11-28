@@ -1,6 +1,6 @@
 import React from 'react';
 import { Navbar,Hero,Service,Clock, PokeApi,Accordion,GoogleKeep, TypeSpeedChecker,CopyRight} from './Components';
-import {Routes, Route} from 'react-router-dom';
+import {Link,Routes, Route} from 'react-router-dom';
 // import Projects from "./Components/Projects";
 function App() {
   return (
@@ -18,7 +18,10 @@ function App() {
               <Route path='accordion' element={<Accordion/>} />
               <Route path='typechecker' element={<TypeSpeedChecker/>} />
             </Route>
-              <Route path="*" element={<h1 className='min-h-[87vh] max-h-fit text-gradient font-ubantu font-extrabold text-[50px] text-center'>Page Yet To Be Created</h1>} />
+              <Route path="*" element={<>
+                <div className='min-h-[87vh] max-h-fit text-gradient font-ubantu font-extrabold text-[50px] text-center'>Page Yet To Be Created<br/><Link to='/'><button className='border border-yellow-50 rounded-md px-4 py-1'>Home Page</button></Link></div>
+                
+              </>} />
             </Routes>
             <CopyRight />
             </div>

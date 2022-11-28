@@ -144,7 +144,7 @@ const TypeSpeedChecker = () => {
             
             
             <input type="text" ref={refInput} disabled={typingStatus !== "started"} className=' bg-slate-700 rounded-xl p-4 mt-4 text-white' onKeyDown={handleKeyDown} value={currInput} onChange={(e) => setCurrInput(e.target.value)}/>
-            <div className="w-[10%]">
+            <div className="sm:w-[10%] w-[25%]">
                 <button className=' w-[100%] px-3 py-2 mt-4 border border-yellow-300 rounded-md text-white' onClick={start}>Start</button>
             </div>
         </div>

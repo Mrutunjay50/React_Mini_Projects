@@ -26,7 +26,7 @@ const Hero = () => {
             <GetStarted />
           </div>
         </div>
-        <h1 className='font-poppins font-semibold ss:text-[65px] text-[22px] text-white ss:leading-[75px] leading-[40px] w-full'></h1>
+        {/* <h1 className='font-poppins font-semibold ss:text-[65px] text-[22px] text-white ss:leading-[75px] leading-[40px] w-full'></h1> */}
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         Our team of experts uses a methodology to identify the credit cards
           most likely to fit your needs. We examine annual percentage rates,

@@ -37,7 +37,7 @@ const Service = () => {
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         Each Project in this section is made through using react and react hooks.
         </p>
-        <Button style="mt-10" />
+        <Button className="mt-10" />
       </div>
       <div className={`${layout.sectionImg} flex-col`}>
         {features.map((feature, index) => (

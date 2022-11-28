@@ -1,6 +1,6 @@
 import axios from 'axios';
 import React,{useState,useEffect} from 'react';
-import styles,{layout} from '../style';
+import {layout} from '../style';
 const PokemonDetail = (props)=>{
     return (<>
     
@@ -68,8 +68,8 @@ const PokeApi = () =>{
     <div className="Poke feature-card p-4 mx-80 min-h-[85vh] max-h-fit rounded-md">
         <div className={`${layout.sectionImg} flex-col m-3 mb-6`}>
         <div className="ShowPoke flex-col">
-        <p className={'${layout.sectionImg} text-white ss:leading-[75px] font-serif leading-[60px] ss:text-[28px] text-[12px]'}>Go <span className='text-gradient ss:leading-[75px] font-serif leading-[60px] ss:text-[32px] text-[20px]'>{name.name}</span>{" "}, I choose you!!</p>
-        <p className={'${layout.sectionImg} text-white'}>Attack with {name.move}</p>
+            <p className={`${layout.sectionImg} text-white ss:leading-[75px] font-serif leading-[60px] ss:text-[28px] text-[12px]`}>Go <span className='text-gradient ss:leading-[75px] font-serif leading-[60px] ss:text-[32px] text-[20px]'>{name.name}</span>{" "}, I choose you!!</p>
+            <p className={`${layout.sectionImg} text-white`}>Attack with {name.move}</p>
         </div>
         <button className={`p-3 bg-blue-gradient mt-3 font-ubuntu font-medium text-[18px] text-primary outline-none rounded-[10px]`} onClick={changeVal}>New Pokemon</button>
         <div className="allCPoke">

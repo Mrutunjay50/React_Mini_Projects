@@ -1,4 +1,4 @@
-import {facebook, instagram, linkedin, twitter, file, file1, file2, file3} from "../assets";
+import {file, file1, file2, file3} from "../assets";
 
 export const navLinks = [
   {
